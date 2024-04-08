@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+
+}
+div{
+  border: 2px solid rgb(17, 25, 243);
+  height: 100px;
+  width: 500px;
+  margin: auto;
+}
+button{
+  background-color: crimson;
+  color: azure;
+  border: none;
+  border-radius: 5px;
+}
